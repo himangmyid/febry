@@ -5,6 +5,13 @@ https://himangmyid.github.io/febry/
 
 ## Script HTML CCS selamt Ulang Tahun Simple Download Saja
 
+<p align="center">
+  <a href="https://github.com/himangmyid/febry">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himangmyid&repo=febry&theme=tokyonight" alt="GitHub Repo Card">
+  </a>
+</p>
+
+
 ## If you want to change the code above for your loved ones I can help by giving me support:
 
 https://paypal.me/DogGhozt
